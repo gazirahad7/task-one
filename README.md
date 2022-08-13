@@ -8,7 +8,7 @@ Developer interview task one, design &amp; create a database based on data and s
 
 
 1. Clone or download this repository and open it in your editor of choice. 
- -https://github.com/gazirahad7/task-one.git
+ - https://github.com/gazirahad7/task-one.git
  
 2. Import database file as "task_1.sql" from  this repository
 
