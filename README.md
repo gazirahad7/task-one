@@ -26,7 +26,6 @@ Developer interview task one, design &amp; create a database based on data and s
  
 ### Project Summary
 
-hr
 
 #### Home 
 ![task-1-pic-one](https://user-images.githubusercontent.com/65822873/184626371-feb3015a-9580-4c92-9b85-298ce0fbf7cd.jpg)
