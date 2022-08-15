@@ -3,7 +3,7 @@ We have an API, which returns a set of data of the user, product, and purchase h
 admin clicks on a button called “Generate Report” then data will fetch from API and save it in the database
 and generate a report from it.
 
-Todo:
+### Todo:
 1. Create/design database schema with proper table, entities, and attributes based on API data,
 (Separate into multiple tables if needed)
 2. When the admin clicks on the button, Fetch data from API and save it in the database and generate
